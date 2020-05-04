@@ -5,6 +5,7 @@
 ---------
 Задание 1: факториал n-го числа
 
+(https://github.com/mintford/lab1/blob/master/lab_1/Screenshots/lab1_1(1).PNG)
 
 Задание 2: n-е число Фибоначчи
 
