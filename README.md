@@ -15,7 +15,7 @@
 
 Задание 3: проверить строку на полиндром
 
-![Image alt]()
+![Image alt](https://github.com/mintford/lab1/blob/master/lab_1/Screenshots/lab1_3(1).PNG)
 ![Image alt]()
 
 Задание 4: проверить число на простоту
