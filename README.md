@@ -10,7 +10,7 @@
 
 Задание 2: n-е число Фибоначчи
 
-![Image alt]()
+![Image alt](https://github.com/mintford/lab1/blob/master/lab_1/Screenshots/lab1_2(1).PNG)
 ![Image alt]()
 
 Задание 3: проверить строку на полиндром
