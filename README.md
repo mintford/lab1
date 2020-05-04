@@ -20,7 +20,7 @@
 
 Задание 4: проверить число на простоту
 
-![Image alt]()
+![Image alt](https://github.com/mintford/lab1/blob/master/lab_1/Screenshots/lab1_4(1).PNG)
 ![Image alt]()
 
 В итоге проведенной лабораторной работы было создано 4 программы, которые работают по заданному условию
